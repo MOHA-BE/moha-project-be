@@ -1,9 +1,11 @@
 # :hearts: Moha_MiniProject
 
 
-사용자끼리 지역 숙박 후기 올리면서 공유해주는 웹사이트입니다!
+전국 각지의 간단한 숙박업소 리뷰사이트 입니다.
 
-'모두의 하우스'라고 해서 줄임말인 Mo-ha로 이름을 지었습니다
+항상 숙소 검색과 후기 찾으시느라 어려움을 느끼시는 분들을 위한 서비스!!
+각 지역의 숙소 이용객들이 올려 놓은 후기로 정보를 얻고
+내가 가본 좋은 숙소 후기를 올려 정보를 공유 할 수 있습니다.
 
 
 ## :sunglasses: Team
@@ -32,13 +34,20 @@
 
 ---
 
-사이트바로가기
+사이트바로가기(http://minipjtmoha.s3-website.ap-northeast-2.amazonaws.com/)
 
 ### :tv: Youtube
 
 ---
 
-링크
+링크(https://www.youtube.com/watch?v=km06qKrVcD4)
+
+## :balloon: Notion Link
+----
+
+노션 바로가기(https://www.notion.so/10-S-A-147a28176c934f57b91cfeb22da2e982)
+
+
 
 ## :speech_balloon: ****Project Collaboration Process****
 
