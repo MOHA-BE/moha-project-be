@@ -201,7 +201,7 @@
     message:’삭제 실패’
     } | 최현민 |  |  |
     |  |  |  |  |  |  |  |  |  |
-    https://www.notion.so/hearts-Moha_MiniProject-92f1ad358d0440e786113ecac5c262fb#f6c4eaa2db074fd7993ffac8abd876b4
+  
 - **Digram**
     
     
