@@ -204,7 +204,7 @@
 - **Digram**
     
     
-    ![Untitled](ERD%20dec19/Untitled.png)
+    ![Untitled](https://user-images.githubusercontent.com/61370487/163331912-e9758246-9535-406b-a369-328d3b9619d8.png)
     
 - **Troubleshooting**
     - JWT
