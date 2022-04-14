@@ -5,7 +5,9 @@
 
 '모두의 하우스'라고 해서 줄임말인 Mo-ha로 이름을 지었습니다
 
+
 ## :sunglasses: Team
+---
 
 
 ### Frontend(React)
