@@ -34,18 +34,18 @@
 
 ---
 
-사이트바로가기(http://minipjtmoha.s3-website.ap-northeast-2.amazonaws.com/)
+[사이트바로가기](http://minipjtmoha.s3-website.ap-northeast-2.amazonaws.com/)
 
 ### :tv: Youtube
 
 ---
 
-링크(https://www.youtube.com/watch?v=km06qKrVcD4)
+[링크](https://www.youtube.com/watch?v=km06qKrVcD4)
 
 ## :balloon: Notion Link
 ----
 
-노션 바로가기(https://www.notion.so/10-S-A-147a28176c934f57b91cfeb22da2e982)
+[노션 바로가기](https://www.notion.so/10-S-A-147a28176c934f57b91cfeb22da2e982)
 
 
 
