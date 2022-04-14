@@ -7,7 +7,6 @@
 
 ## :sunglasses: Team
 
----
 
 ### Frontend(React)
 
